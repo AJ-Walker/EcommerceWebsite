@@ -1,1 +1,1 @@
-# Ecommerce Website Using Django
+# Ecommerce Website built using Django
